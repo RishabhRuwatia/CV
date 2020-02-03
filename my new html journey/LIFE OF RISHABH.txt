@@ -1,0 +1,9 @@
+<!Doctype html>
+<html>
+<head>
+<title>life of rishabh</title>
+</head>
+<body>
+<h1>LIFE OF RISHABH</h1>
+</body>
+</html>
